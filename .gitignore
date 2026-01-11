@@ -1,0 +1,11 @@
+node-version/node_modules/
+node-version/dist/
+node-version/.pnpm-store/
+py-version/.venv/
+py-version/venv/
+py-version/__pycache__/
+py-version/*.pyc
+.pytest_cache/
+.env
+.env.local
+.DS_Store
