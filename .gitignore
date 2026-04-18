@@ -9,3 +9,4 @@ py-version/*.pyc
 .env
 .env.local
 .DS_Store
+.pmate.lock
